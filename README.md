@@ -1,5 +1,5 @@
 # twitter_parser
-There is free python-based parser of twitter.com that allows to parse any date-range by any word or phrase. 
+There is free python-based parser of <twitter.com> that allows to parse any date-range by any word or phrase. 
 
 Also, Parser has parameters to filter by language, location and etc. Good Luck with using!   
 
